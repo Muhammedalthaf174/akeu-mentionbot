@@ -26,7 +26,7 @@ async def start(event):
     buttons=(
       [
         Button.url('📣 support', 'https://t.me/TEAMAKEU'),
-        Button.url('📦 Source', 'https://t.me/BEEZLEBUB_OF_HELL')
+        Button.url('📦 DEV', 'https://t.me/BEEZLEBUB_OF_HELL')
       ]
     )
   )
