@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/harp_tech'),
-        Button.url('📦 Source', 'https://github.com/AnjanaMadu/MentionAllBot')
+        Button.url('📣 support', 'https://t.me/TEAMAKEU'),
+        Button.url('📦 Source', 'https://t.me/BEEZLEBUB_OF_HELL')
       ]
     )
   )
@@ -39,8 +39,8 @@ async def help(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/harp_tech'),
-        Button.url('📦 Source', 'https://github.com/AnjanaMadu/MentionAllBot')
+        Button.url('📣 support', 'https://t.me/TEAMAKEU'),
+        Button.url('📦 DEV', 'https://t.me/BEEZLEBUB_OF_HELL')
       ]
     )
   )
