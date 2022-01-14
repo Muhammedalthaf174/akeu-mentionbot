@@ -12,3 +12,5 @@ _**This bot can mention members upto 10,000 in groups and can mention members up
 - [Me](https://github.com/BEEZLEBUB99) for this Project ;)
 
 **Do not forget to follow me on Github ✌️**
+### Deploy in your vps
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammedalthaf174/akeu-mentionbot)
